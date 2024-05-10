@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.generation.databaseConnect.database.entity.Persona;
+import com.generation.databaseConnect.entity.Persona;
 import com.generation.databaseConnect.repository.PersonaRepository;
 
 @Service

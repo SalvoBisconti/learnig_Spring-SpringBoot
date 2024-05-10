@@ -3,7 +3,7 @@ package com.generation.databaseConnect.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.generation.databaseConnect.database.entity.Persona;
+import com.generation.databaseConnect.entity.Persona;
 
 // COINCIDE CON IL DAO
 // IL PACKAGE 'REPOSITORY' CORRISPONDE AL DAL

@@ -1,4 +1,4 @@
-package com.generation.databaseConnect.database.entity;
+package com.generation.databaseConnect.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
